@@ -25,7 +25,7 @@ Print it.
 
 ## PROGRAM: 
 ```python
-Name:J.P.Aravind samy
+Name:P.Aravind samy
 reg.no:22005040
 
 import numpy as np
