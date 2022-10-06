@@ -43,7 +43,7 @@ print("Product of two arrays is:",result)
 ```
 
 ## OUTPUT:
-![output](./op.png)
+![output](/OP.png)
 
 ## RESULT:
 Multiplying of two arrays using numpy has been successfully done.
